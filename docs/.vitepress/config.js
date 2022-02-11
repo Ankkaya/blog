@@ -9,7 +9,7 @@ module.exports = {
             },
             {
                 text: '书籍',
-                link: '/'
+                link: '/books/'
             },
             {
                 text: '关于',
